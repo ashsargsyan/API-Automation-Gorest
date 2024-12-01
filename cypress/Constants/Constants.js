@@ -1,4 +1,4 @@
-import {faker, Sex} from "@faker-js/faker";
+import {faker} from "@faker-js/faker";
 
 const constants = {
     baseUrl: 'https://gorest.co.in/public/v2/users/',
